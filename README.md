@@ -1,7 +1,7 @@
 Group/Individual Equity Research Projects
 
-- Lululemon
+- Lululemon (individual)
 - CVS Healthcare
 - DoorDash
-- PetSmart (case competition finalist)
-- Caesars Entertainment (UChicago Stock Pitch Comp)
+- PetSmart (Finalist @ EY-Parthenon Case Comp)
+- Caesars Entertainment (UChicago Stock Pitch Comp, Finalist @ Associate Group)
