@@ -6,3 +6,4 @@ Group/Individual Equity Research Projects
 - PetSmart (Finalist @ EY-Parthenon Case Comp) May 2024
 - Caesars Entertainment (UChicago Stock Pitch Comp, Third Place @ Associate Group) Apr 2025
 - Deckers Outdoor Corp (Individual) June 2025
+- Bridgewater Forecasting the Future, July 2025, Global Top 100
