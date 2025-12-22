@@ -2,8 +2,8 @@ Equity Research & Macro Modeling
 
 Individual Projects
 - Lululemon (LULU)
-- Deckers Outdoor (DECK) Corp June 2025
-- Brookfield 
+- Brookfield Market and Tariff Presentation May 2025
+- Deckers Outdoor (DECK) Corp
 - Bridgewater Forecasting the Future, July 2025, Global Top 100
 
 Group Projects
